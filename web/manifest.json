@@ -1,11 +1,11 @@
 {
-    "name": "TimeTable",
-    "short_name": "TimeTable",
+    "name": "super-TimeTable",
+    "short_name": "super-TimeTable",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "super-TimeTable project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
